@@ -1,2 +1,2 @@
 # Emerging-Technologies-Tensorflow
-Solution to the TensorFlow problem sheet.
+This repository contains the solutions to the fourth problem sheet on TensorFlow given as part of my fourth year emerging technologies module in college. These problems use the famous iris data set. This data set was downloaded from a [previous problem sheet](https://raw.githubusercontent.com/KeithWilliamsGMIT/Emerging-Technologies-Jupyter/master/data/iris.csv). All solutions are contained in a single Jupyter notebook file. Note that the solutions to these problems were written in Python 3.5.
