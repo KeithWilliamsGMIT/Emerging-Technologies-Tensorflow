@@ -15,7 +15,7 @@ cd Emerging-Technologies-Tensorflow
 jupyter notebook
 ```
 
-The notebook file is called `tensorflow.ipynb`.
+The notebook file is called `tensorflow.ipynb`. Note that to be able to run this notebook you will need to install both Python 3.5 and TensorFlow. The easiest way to do this is by installing [Anaconda](https://www.anaconda.com/download/).
 
 ## Problems to solve
 
